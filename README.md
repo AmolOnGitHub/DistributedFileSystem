@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://web.iiit.ac.in/~siddharth.mago/images/sweets.png)](https://www.youtube.com/watch?v=bAN3KmTSy2Q&list=PLl4fleEI17jedKXDFRfk0z3KNb6MDpKMG&index=10)
-
 # README for Network File System (NFS) Implementation
 
 ---
