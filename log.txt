@@ -1,0 +1,46 @@
+Naming server started
+Accepted new connection from 10.1.128.86:52145 (socket 4)
+Received message from 10.1.128.86:52145 (socket 4): REGISTER 0 10.1.128.86 52143 52144 ./test/0,
+Processing storage server message on socket 4: REGISTER 0 10.1.128.86 52143 52144 ./test/0,
+Added storage server 0 with IP 10.1.128.86, client port 52144 with 1 paths
+Received message from 10.1.128.86:52145 (socket 4): HEARTBEAT 0
+Processing storage server message on socket 4: HEARTBEAT 0
+Accepted new connection from 10.1.128.86:52148 (socket 5)
+Received message from 10.1.128.86:52148 (socket 5): REGISTER 1 10.1.128.86 52146 52147 ./test/1,
+Processing storage server message on socket 5: REGISTER 1 10.1.128.86 52146 52147 ./test/1,
+Added storage server 1 with IP 10.1.128.86, client port 52147 with 1 paths
+Received message from 10.1.128.86:52148 (socket 5): HEARTBEAT 1
+Processing storage server message on socket 5: HEARTBEAT 1
+Accepted new connection from 10.1.128.86:52151 (socket 6)
+Received message from 10.1.128.86:52151 (socket 6): REGISTER 2 10.1.128.86 52149 52150 ./test/2,
+Processing storage server message on socket 6: REGISTER 2 10.1.128.86 52149 52150 ./test/2,
+Added storage server 2 with IP 10.1.128.86, client port 52150 with 1 paths
+Received message from 10.1.128.86:52151 (socket 6): HEARTBEAT 2
+Processing storage server message on socket 6: HEARTBEAT 2
+Received message from 10.1.128.86:52145 (socket 4): HEARTBEAT 0
+Processing storage server message on socket 4: HEARTBEAT 0
+Accepted new connection from 10.1.128.86:52152 (socket 7)
+Received message from 10.1.128.86:52148 (socket 5): HEARTBEAT 1
+Processing storage server message on socket 5: HEARTBEAT 1
+Received message from 10.1.128.86:52151 (socket 6): HEARTBEAT 2
+Processing storage server message on socket 6: HEARTBEAT 2
+Received message from 10.1.128.86:52145 (socket 4): HEARTBEAT 0
+Processing storage server message on socket 4: HEARTBEAT 0
+Backing up storage server 0 in SS 1 and 134250496
+Backing up storage server 0 in SS 2 and 268468224
+Received message from 10.1.128.86:52148 (socket 5): HEARTBEAT 1
+Processing storage server message on socket 5: HEARTBEAT 1
+Received message from 10.1.128.86:52151 (socket 6): HEARTBEAT 2
+Processing storage server message on socket 6: HEARTBEAT 2
+Received message from 10.1.128.86:52145 (socket 4): HEARTBEAT 0
+Processing storage server message on socket 4: HEARTBEAT 0
+Backing up storage server 1 in SS 2 and 268468224
+Backing up storage server 1 in SS 0 and 402685952
+Backing up storage server 2 in SS 0 and 402685952
+Backing up storage server 2 in SS 1 and 134250496
+Received message from 10.1.128.86:52148 (socket 5): HEARTBEAT 1
+Processing storage server message on socket 5: HEARTBEAT 1
+Received message from 10.1.128.86:52151 (socket 6): HEARTBEAT 2
+Processing storage server message on socket 6: HEARTBEAT 2
+Received message from 10.1.128.86:52145 (socket 4): HEARTBEAT 0
+Processing storage server message on socket 4: HEARTBEAT 0
